@@ -12,7 +12,7 @@ Ce projet a pour but de créer un **générateur de labyrinthe parfait** en **C#
 
 ## Respository summary
 
-This project aims to create a **perfect labyrinth generator** in **C**, we also had to create the path to take to find the exit of the labyrinth. This project was given to us during the module of **C # /.NET** by our professor during my 2nd year training at school *Ynov*.
+This project aims to create a **perfect labyrinth generator** in **C**, we also had to create the path to take to find the exit of the labyrinth. This project was given to us during the module of **C# /.NET** by our professor during my 2nd year training at school *Ynov*.
 
 
 
