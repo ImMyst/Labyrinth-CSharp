@@ -8,3 +8,6 @@ C:\Users\titou\Desktop\Maze Generator - Recursive Back tracker (C_23%2c Visual B
 C:\Users\titou\Desktop\Maze Generator - Recursive Back tracker (C_23%2c Visual Basic)\C#\obj\Debug\mazec.csproj.GenerateResource.Cache
 C:\Users\titou\Desktop\Maze Generator - Recursive Back tracker (C_23%2c Visual Basic)\C#\obj\Debug\mazec.exe
 C:\Users\titou\Desktop\Maze Generator - Recursive Back tracker (C_23%2c Visual Basic)\C#\obj\Debug\mazec.pdb
+D:\Program Files (x86)\Cours\2eme année\Labyrinthe C#\C#\bin\Debug\mazec.exe.config
+D:\Program Files (x86)\Cours\2eme année\Labyrinthe C#\C#\obj\Debug\mazec.exe
+D:\Program Files (x86)\Cours\2eme année\Labyrinthe C#\C#\obj\Debug\mazec.pdb
